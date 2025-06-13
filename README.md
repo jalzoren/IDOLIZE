@@ -1,5 +1,5 @@
 <p align="center" style="background-color: #ffffff; padding: 10px; border-radius: 8px;">
-  <img src="https://i.imgur.com/SGQA3X6.png" alt="Idolize Logo" width="200"/>
+  <img src="https://i.imgur.com/SGQA3X6.png" alt="Idolize Logo" width="500"/>
 </p>
 
 
