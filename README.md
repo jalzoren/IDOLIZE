@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Idolize</h1>
+<h1 align="center">iDOLIZE</h1>
 
 <p align="center">
   A free, non-profit photobooth experience inspired by K-pop idols and fandom creativity.
@@ -11,12 +11,12 @@
 
 ---
 
-## About Idolize
+## About iDOLIZE
 
-**Idolize** is a free, non-profit, and non-commercial photo experience featuring K-pop idols.  
+**iDOLIZE** is a free, non-profit, and non-commercial photo experience featuring K-pop idols.  
 This creative project is inspired by popular photobooth concepts in the photo service industry, reimagined with a fan-centered approach.
 
-Designed by fans, for fans — Idolize brings the excitement of seeing your favorite K-IDOLS into a stylish and fun interactive photo booth. Whether you're snapping solo or with friends, Idolize offers an immersive and aesthetic K-pop-inspired experience, completely free.
+Designed by fans, for fans — iDOLIZE brings the excitement of seeing your favorite K-IDOLS into a stylish and fun interactive photo booth. Whether you're snapping solo or with friends, Idolize offers an immersive and aesthetic K-pop-inspired experience, completely free.
 
 ---
 
