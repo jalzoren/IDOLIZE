@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/915501966006816811/1383004301449891972/IDOLIZE.png?ex=684d36a0&is=684be520&hm=e4c2d1feaa15df6e6391f860c4c9537bfca9601da65166f13987666bf7db6983&=&format=webp&quality=lossless&width=527&height=527" alt="Idolize Logo" width="200"/>
+<p align="center" style="background-color: #ffffff; padding: 10px; border-radius: 8px;">
+  <img src="https://imgur.com/46f0q5N" alt="Idolize Logo" width="200"/>
 </p>
+
 
 <h1 align="center">Idolize</h1>
 
